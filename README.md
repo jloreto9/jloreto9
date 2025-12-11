@@ -22,15 +22,14 @@ Científico de Datos, Economista y Analista de Datos con experiencia en retail, 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://camo.githubusercontent.com/542a0340419f8d1b34065c2e3276f94519dab2eea45723dadb8bd98275b4274b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)
+![NumPy](https://camo.githubusercontent.com/219039d4447950f272d252326184951ed2c77db83af5d9bf19c2ccefe6432c7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 
 ---
 
 ### 🧠 Machine Learning & IA
 ![MLflow](https://camo.githubusercontent.com/7fef6d993f28807074231b61c9da62379905b3643e5d572449d6663403aed097/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6c666c6f772d2532336439656164332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d626c7565)
 ![Scikit-Learn](https://camo.githubusercontent.com/19110abd80dacd3a2b1983b13a8dd35354b1510aa8fff7b292ed3b7f51e196bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)
-![Pandas](https://camo.githubusercontent.com/542a0340419f8d1b34065c2e3276f94519dab2eea45723dadb8bd98275b4274b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)
-![NumPy](https://camo.githubusercontent.com/219039d4447950f272d252326184951ed2c77db83af5d9bf19c2ccefe6432c7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
-![Matplotlib](https://camo.githubusercontent.com/5aa2a14284e322a25bcbcdea857ed77fb46d3ba01ced35d34edf01b8f6d0b77e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b)
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -39,6 +38,7 @@ Científico de Datos, Economista y Analista de Datos con experiencia en retail, 
 ### 📊 BI & Visualización
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![Matplotlib](https://camo.githubusercontent.com/5aa2a14284e322a25bcbcdea857ed77fb46d3ba01ced35d34edf01b8f6d0b77e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b)
 
 ---
 
@@ -48,6 +48,7 @@ Científico de Datos, Economista y Analista de Datos con experiencia en retail, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap)
+![n8n](https://img.shields.io/badge/n8n-1A82E2?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
@@ -55,7 +56,7 @@ Científico de Datos, Economista y Analista de Datos con experiencia en retail, 
 
 ![MLB](https://img.shields.io/badge/MLB-041E42?style=for-the-badge&logo=mlb&logoColor=white)
 ![Baseball Analytics](https://img.shields.io/badge/Baseball%20Analytics-8B0000?style=for-the-badge)
-![Sabermetría con Python](https://img.shields.io/badge/Sabermetría%20con%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Sabermetría con Python](https://img.shields.io/badge/Sabermetrics-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Análisis de Datos Deportivos](https://img.shields.io/badge/Análisis_de_Datos-Deportivo-success?style=for-the-badge)
 
 ---
