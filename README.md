@@ -31,6 +31,7 @@ Científico de Datos, Economista y Analista de Datos con experiencia en retail, 
 ### 🧠 Machine Learning & IA
 ![MLflow](https://camo.githubusercontent.com/7fef6d993f28807074231b61c9da62379905b3643e5d572449d6663403aed097/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6c666c6f772d2532336439656164332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d626c7565)
 ![Scikit-Learn](https://camo.githubusercontent.com/19110abd80dacd3a2b1983b13a8dd35354b1510aa8fff7b292ed3b7f51e196bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)
+![Prophet](https://img.shields.io/badge/Prophet-025E8C?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -40,6 +41,8 @@ Científico de Datos, Economista y Analista de Datos con experiencia en retail, 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 ![Matplotlib](https://camo.githubusercontent.com/5aa2a14284e322a25bcbcdea857ed77fb46d3ba01ced35d34edf01b8f6d0b77e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 
 ---
 
