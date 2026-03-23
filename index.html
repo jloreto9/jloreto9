@@ -66,7 +66,7 @@
     color:var(--accent); margin-bottom:12px;
   }
   .contact-row { display:flex; flex-wrap:wrap; gap:4px 16px; font-size:11.5px; color:var(--muted); }
-  .contact-row a { color:var(--muted); text-decoration:none; }
+  .contact-row a { color:var(--muted); text-decoration:none; overflow-wrap:anywhere; }
   .contact-row a:hover { color:var(--accent); }
   .contact-row .sep { color:var(--rule); }
   .section { margin-bottom:32px; }
@@ -95,7 +95,7 @@
     font-size:10.5px; font-weight:600; letter-spacing:.12em; text-transform:uppercase;
     color:var(--accent); margin-bottom:12px;
   }
-  .exp-company a { color:var(--accent); text-decoration:none; }
+  .exp-company a { color:var(--accent); text-decoration:none; overflow-wrap:anywhere; }
   .exp-company a:hover { text-decoration:underline; }
   .exp-right { text-align:right; padding-top:3px; }
   .exp-date { font-size:11px; color:var(--muted); }
@@ -120,6 +120,7 @@
     padding:3px 9px; border-radius:3px; border:1px solid var(--rule);
   }
   .tag.kw { background:var(--tag-kw-bg); color:var(--tag-kw-color); border-color:var(--tag-kw-border); }
+  .tag, .exp-title, .edu-degree, .cert-name { overflow-wrap:anywhere; }
   .skills-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:18px 32px; }
   .skill-group-label {
     font-size:9.5px; font-weight:600; letter-spacing:.14em; text-transform:uppercase;
@@ -140,6 +141,97 @@
   .lang-name { font-family:'Playfair Display',serif; font-size:15px; color:var(--ink); }
   .lang-level { font-size:11px; color:var(--muted); }
   [data-lang] { display:none; }
+  @media (max-width: 768px) {
+    body { font-size:12px; }
+    .lang-bar {
+      justify-content:center;
+      padding:7px 16px;
+      flex-wrap:wrap;
+    }
+    .cv-wrap { padding:62px 20px 40px; }
+    .header {
+      grid-template-columns:1fr;
+      gap:18px;
+      text-align:center;
+      margin-bottom:28px;
+    }
+    .photo-wrap img {
+      width:88px;
+      height:88px;
+      margin:0 auto;
+    }
+    .header-info h1 { font-size:28px; }
+    .header-info .role {
+      font-size:10px;
+      margin-bottom:10px;
+    }
+    .contact-row {
+      justify-content:center;
+      gap:6px 12px;
+      font-size:11px;
+    }
+    .section { margin-bottom:28px; }
+    .section-label {
+      gap:10px;
+      font-size:9px;
+    }
+    .about-text {
+      font-size:13.5px;
+      line-height:1.7;
+    }
+    .exp-item {
+      grid-template-columns:1fr;
+      gap:12px;
+      margin-bottom:24px;
+      padding-bottom:24px;
+    }
+    .exp-right {
+      text-align:left;
+      padding-top:0;
+      display:flex;
+      flex-wrap:wrap;
+      gap:4px 12px;
+    }
+    .exp-date, .exp-loc { font-size:10.5px; }
+    .bullet-list li {
+      font-size:12px;
+      line-height:1.6;
+      text-align:left;
+    }
+    .skills-grid,
+    .cert-grid,
+    .edu-item {
+      grid-template-columns:1fr;
+      gap:12px;
+    }
+    .edu-year {
+      text-align:left;
+      padding-top:0;
+    }
+    .langs-row {
+      gap:18px;
+    }
+  }
+  @media (max-width: 480px) {
+    .cv-wrap { padding:58px 14px 32px; }
+    .header-info h1 { font-size:24px; }
+    .header-info .role {
+      letter-spacing:.1em;
+      line-height:1.5;
+    }
+    .contact-row {
+      flex-direction:column;
+      align-items:center;
+      gap:4px;
+    }
+    .contact-row .sep { display:none; }
+    .section-label::after { display:none; }
+    .tags-wrap, .skill-items { gap:6px; }
+    .langs-row {
+      flex-direction:column;
+      gap:10px;
+    }
+  }
   @media print { .lang-bar { display:none !important; } .cv-wrap { padding-top:24px; } body { background:white; } }
 </style>
 </head>
