@@ -1,16 +1,16 @@
 ## 👋 ¡Hola! Soy Jorge Leonardo Loreto  
 
-Científico de Datos, Economista y Analista de Datos con experiencia en retail, finanzas, inteligencia de negocios y analítica deportiva. Apasionado por transformar datos complejos en información clara, visual y accionable para la toma de decisiones estratégicas.
+Ingeniero de IA y Científico de Datos con experiencia en retail, finanzas, inteligencia de negocios y analítica deportiva. Construyo soluciones de IA aplicada — desde modelos predictivos y LLMs hasta pipelines de datos en producción — para transformar información compleja en decisiones estratégicas con impacto real.
 
 ---
 
 ## 🚀 Sobre mí
 
-- 💼 Experiencia en Control de Gestión Financiera, análisis comercial y optimización de procesos  
-- 🛠️ Especialista en Python, SQL, Power BI y Tableau  
-- 📊 Modelado de series temporales con Prophet, ARIMA y LSTM, simulaciones y análisis de sensibilidad  
-- 📈 Enfoque en KPIs comerciales, logísticos y operativos para una visión 360 del negocio  
-- ⚙️ Automatización de procesos de datos y reportes  
+- 🤖 Ingeniería de IA aplicada: LLMs, agentes, automatización inteligente y modelos en producción  
+- 💼 Liderazgo de BI y Control de Gestión en la mayor cadena de retail de RD (+90 tiendas)  
+- 🛠️ Especialista en Python, SQL, Power BI y APIs de IA (OpenAI, Anthropic, HuggingFace)  
+- 📊 Modelado avanzado: series temporales (Prophet, LSTM), clustering, análisis causal (DiD, Synthetic Control)  
+- ⚙️ Automatización de pipelines de datos y agentes IA end-to-end  
 - ⚾ Analítica deportiva y sabermetría aplicada al béisbol con métricas avanzadas (OPS, wOBA, WAR, xFIP)
 
 ---
