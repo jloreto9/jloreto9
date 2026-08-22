@@ -1,89 +1,82 @@
-## 👋 ¡Hola! Soy Jorge Leonardo Loreto  
+﻿# 👋 ¡Hola! Soy Jorge Leonardo Loreto
 
-Ingeniero de IA y Científico de Datos con experiencia en retail, finanzas, inteligencia de negocios y analítica deportiva. Construyo soluciones de IA aplicada — desde modelos predictivos y LLMs hasta pipelines de datos en producción — para transformar información compleja en decisiones estratégicas con impacto real.
+<div align="center">
+  <a href="https://jloreto9.github.io/"><img src="https://img.shields.io/badge/🌐_Portafolio_Web-GitHub_Pages-blue?style=for-the-badge" alt="Portafolio"></a>
+  <a href="https://www.linkedin.com/in/jorgeloreto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jloreto9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
----
-
-## 🚀 Sobre mí
-
-- 🤖 Ingeniería de IA aplicada: LLMs, agentes, automatización inteligente y modelos en producción  
-- 💼 Liderazgo de BI y Control de Gestión en la mayor cadena de retail de RD (+90 tiendas)  
-- 🛠️ Especialista en Python, SQL, Power BI y APIs de IA (OpenAI, Anthropic, HuggingFace)  
-- 📊 Modelado avanzado: series temporales (Prophet, LSTM), clustering, análisis causal (DiD, Synthetic Control)  
-- ⚙️ Automatización de pipelines de datos y agentes IA end-to-end  
-- ⚾ Analítica deportiva y sabermetría aplicada al béisbol con métricas avanzadas (OPS, wOBA, WAR, xFIP)
-
----
-
-## 🧰 Tech Stack
-
-### 🐍 Lenguajes & Data
-![Python](https://camo.githubusercontent.com/43de341c9b8b09764cc735349316e938d77a1da3751ae8bfaec066e3c3450bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server%20(T--SQL)-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://camo.githubusercontent.com/542a0340419f8d1b34065c2e3276f94519dab2eea45723dadb8bd98275b4274b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)
-![NumPy](https://camo.githubusercontent.com/219039d4447950f272d252326184951ed2c77db83af5d9bf19c2ccefe6432c7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
+<div align="center" style="margin-top: 10px;">
+  <b>📄 Descargar CV:</b>
+  <a href="https://raw.githubusercontent.com/jloreto9/jloreto9/main/cv-es.pdf">🇪🇸 Español</a> |
+  <a href="https://raw.githubusercontent.com/jloreto9/jloreto9/main/cv-en.pdf">🇺🇸 English</a> |
+  <a href="https://raw.githubusercontent.com/jloreto9/jloreto9/main/cv-fr.pdf">🇫🇷 Français</a>
+</div>
 
 ---
 
-### 🧠 Machine Learning & IA
-![MLflow](https://camo.githubusercontent.com/7fef6d993f28807074231b61c9da62379905b3643e5d572449d6663403aed097/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6c666c6f772d2532336439656164332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d626c7565)
-![Scikit-Learn](https://camo.githubusercontent.com/19110abd80dacd3a2b1983b13a8dd35354b1510aa8fff7b292ed3b7f51e196bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)
-![Prophet](https://img.shields.io/badge/Prophet-025E8C?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+### 🚀 Perfil Profesional
+
+**Economista & AI Data Scientist** trilingüe (ES / EN / FR) con sólida trayectoria en **Control de Gestión, Business Intelligence, Inferencia Causal y Analítica Sabermétrica**. Especializado en diseñar e implementar pipelines de datos en producción, agentes de automatización e integraciones con APIs de LLMs (OpenAI, Anthropic) para transformar volúmenes masivos de datos en impacto cuantificable de negocio.
+
+* 🏢 **Retail & BI Scale:** Modelado financiero y de demanda para la cadena de retail más grande de RD (+85 tiendas, formatos Sirena / Aprezio).
+* 🤖 **AI Engineering & Automatización:** Pipelines end-to-end con LLMs, agentes autónomos (n8n self-hosted) y arquitecturas de APIs.
+* 📊 **Econometría & Causal Inference:** Análisis de impacto con DiD (Difference-in-Differences), Synthetic Control, series temporales (Prophet, ARIMA) y validación estadística estricta.
+* ⚾ **Sports Analytics:** Arquitectura sabermétrica para analítica de béisbol profesional (LVBP / MLB API).
 
 ---
 
-### 📊 BI & Visualización
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-![Matplotlib](https://camo.githubusercontent.com/5aa2a14284e322a25bcbcdea857ed77fb46d3ba01ced35d34edf01b8f6d0b77e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### 📜 Certificaciones & Idiomas
 
-
----
-
-### 🐳 Contenedores & Automatización
-![Docker](https://camo.githubusercontent.com/97af73d098e049bf2d11e027500814d62dd2c840ce11d1cb5270607ae9949b2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap)
-![n8n](https://img.shields.io/badge/n8n-1A82E2?style=for-the-badge&logo=n8n&logoColor=white)
+* 🎓 **DataCamp:** AI Engineer for Data Scientists Associate
+* 🎓 **DataCamp:** Data Scientist Associate
+* 🎓 **CFI:** Financial Modeling & Valuation Analyst (FMVA®)
+* 🌐 **Idiomas:** Español (Nativo) | Inglés (Profesional Avanzado) | Francés (Profesional / Intermedio B2)
 
 ---
 
-## ⚾ Sports Analytics & Sabermetría
+### 🧰 Tech Stack
 
-![MLB](https://img.shields.io/badge/MLB-041E42?style=for-the-badge&logo=mlb&logoColor=white)
-![Baseball Analytics](https://img.shields.io/badge/Baseball%20Analytics-8B0000?style=for-the-badge)
-![Sabermetría con Python](https://img.shields.io/badge/Sabermetrics-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Análisis de Datos Deportivos](https://img.shields.io/badge/Análisis_de_Datos-Deportivo-success?style=for-the-badge)
-
----
-
-## 📂 Proyectos Destacados
-
-📈 **Forecast de Ventas con Prophet**  
-Predicción de ventas diarias y mensuales con eventos especiales, feriados y campañas comerciales, integrando simulaciones Monte Carlo para proyecciones realistas.
-
-📊 **Dashboard de Control Financiero**  
-Implementación en Power BI con jerarquías NIIF, KPIs clave y análisis comparativo Proyección vs Real.
-
-🤖 **Automatización de Carga de Datos desde SAP a SQL Server**  
-Proceso automatizado diario mediante scripts y `.bat` para reducir tiempos de carga manual.
-
-⚾ **Modelos Sabermétricos para Béisbol**  
-Análisis de rendimiento mediante métricas avanzadas (OPS, wOBA, WAR, xFIP), scraping de datos deportivos y visualización de resultados.
+| Dominio | Tecnologías & Herramientas |
+|---|---|
+| **Lenguajes & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **IA & Machine Learning** | ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-19C37D?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Prophet](https://img.shields.io/badge/Prophet-025E8C?style=flat-square) ![Statsmodels](https://img.shields.io/badge/Statsmodels-00599C?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
+| **BI, Web Apps & Visualización** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
+| **Cloud, Infra & Pipelines** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
 ---
 
-## 📫 Conecta conmigo
+### 📂 Proyectos Destacados
 
-💼 https://www.linkedin.com/in/jorgeloreto/  
-📧 jloreto9@gmail.com  
+#### 🦁 [RepubliCaraquistApp — Plataforma Sabermétrica en Producción](https://republicaraquistapp.streamlit.app/)
+> `Python` `Streamlit` `Supabase` `MLB Stats API` `Plotly` `Sabermetría`
+* Aplicación web analítica en vivo para la LVBP (Leones del Caracas).
+* **Motor RE24 de Win Expectancy:** Algoritmo estocástico de 24 estados Base-Out con cálculo en tiempo real de **Leverage Index (LI)** y **Clutch**.
+* Visualizaciones avanzadas de **Spray Charts 2D**, cartografía de strike zone milimétrica ($plate\_x$, $plate\_z$) y análisis de bullpen.
+* 🔗 **[Ver App en Vivo](https://republicaraquistapp.streamlit.app/)** | 📁 **[Ver Código](https://github.com/jloreto9/RepubliCaraquistApp)**
 
-> “Los datos cuentan historias, mi trabajo es hacer que esas historias hablen claro y con impacto.”
+#### 📈 Forecast de Ventas & Presupuesto Jerárquico (Grupo Ramos)
+> `Python` `Prophet` `SQL Server` `Power BI` `DAX`
+* Pipeline de predicción de demanda y cascada presupuestaria en 5 niveles jerárquicos (Tienda → Familia → Subfamilia → Ítem) para +85 tiendas.
+* Incorporación de calendarios fiscales dominicanos, días especiales y simulaciones estocásticas.
+
+#### 🤖 Asistente de IA Autónomo & Workflows con n8n
+> `n8n (Self-Hosted)` `PostgreSQL` `Whisper API` `Telegram Webhooks` `Docker`
+* Sistema de automatización personal con transcripción de notas de voz, memoria de ventana conversacional y despacho inteligente de recordatorios.
+
+#### 🤝 Plataforma de Ayuda Humanitaria — BuscaTuFamilia
+> `Python` `FastAPI` `CSV Pipelines` `Architecture Consulting`
+* Asesoría arquitectónica y desarrollo de bot de búsqueda sobre datos hospitalarios estructurados para labores de asistencia humanitaria.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jloreto9&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jloreto9&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <i>“Los datos cuentan historias; mi trabajo es hacer que esas historias hablen claro, sustenten decisiones y generen impacto real.”</i>
+</div>
