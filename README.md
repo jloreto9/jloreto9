@@ -1,7 +1,7 @@
-﻿# 👋 ¡Hola! Soy Jorge Leonardo Loreto
+# 👋 ¡Hola! Soy Jorge Leonardo Loreto
 
 <div align="center">
-  <a href="https://jloreto9.github.io/"><img src="https://img.shields.io/badge/🌐_Portafolio_Web-GitHub_Pages-blue?style=for-the-badge" alt="Portafolio"></a>
+  <a href="https://jloreto9.github.io/jloreto9/"><img src="https://img.shields.io/badge/🌐_Portafolio_Web-GitHub_Pages-blue?style=for-the-badge" alt="Portafolio"></a>
   <a href="https://www.linkedin.com/in/jorgeloreto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:jloreto9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
