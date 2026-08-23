@@ -55,6 +55,19 @@
 * Visualizaciones avanzadas de **Spray Charts 2D**, cartografía de strike zone milimétrica ($plate\_x$, $plate\_z$) y análisis de bullpen.
 * 🔗 **[Ver App en Vivo](https://republicaraquistapp.streamlit.app/)** | 📁 **[Ver Código](https://github.com/jloreto9/RepubliCaraquistApp)**
 
+#### ⚾ [Vision 360 — Comparador Sabermétrico Head-to-Head MLB](https://github.com/jloreto9/vision360)
+> `Python` `Streamlit` `Statcast / Baseball Savant` `Pybaseball` `Plotly` `Pillow`
+* Plataforma de analítica comparativa 360° cara a cara para todos los jugadores activos de Grandes Ligas (MLB).
+* **Radar Polar Statcast & Métricas Esperadas:** Percentiles 0-100 en 7 dimensiones clave, análisis de regresión ($xBA, xSLG, xwOBA, xERA$), defensa Outs Above Average (OAA), velocidad de sprint con líneas de referencia sabermétrica y exportación de Matchup Cards oficiales en PNG.
+* **Pipeline Automatizado:** Ingesta y actualización diaria vía GitHub Actions a las 4:00 AM AST.
+* 📁 **[Ver Código](https://github.com/jloreto9/vision360)**
+
+#### 📊 [MLB Intelligence & Fantasy Suite — Hub de Analítica y Fantasy Baseball](https://github.com/jloreto9/mlb-top-players)
+> `Python` `Streamlit` `MLB Stats API` `FanGraphs` `Statcast` `Plotly`
+* Suite analítica integral para MLB y toma de decisiones estratégicas en ligas de **Fantasy Baseball** (Yahoo, ESPN, Fantrax, NFBC).
+* **Motor de Valoración & Algoritmos Fantasy:** Cálculo de Z-Scores 5x5 ($z_R, z_{HR}, z_W, z_{SV}$, etc.), detector *Buy-Low / Sell-High* de regresión Statcast, planificador semanal de abridores (*SP Streamer Score*), jerarquías de los 30 bullpens y cuadro de postemporada.
+* 📁 **[Ver Código](https://github.com/jloreto9/mlb-top-players)**
+
 #### 📈 Forecast de Ventas & Presupuesto Jerárquico (Grupo Ramos)
 > `Python` `Prophet` `SQL Server` `Power BI` `DAX`
 * Pipeline de predicción de demanda y cascada presupuestaria en 5 niveles jerárquicos (Tienda → Familia → Subfamilia → Ítem) para +85 tiendas.
