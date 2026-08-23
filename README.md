@@ -71,7 +71,7 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jloreto9&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jloreto9&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
