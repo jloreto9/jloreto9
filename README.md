@@ -55,6 +55,14 @@
 * Visualizaciones avanzadas de **Spray Charts 2D**, cartografía de strike zone milimétrica ($plate\_x$, $plate\_z$) y análisis de bullpen.
 * 🔗 **[Ver App en Vivo](https://republicaraquistapp.streamlit.app/)** | 📁 **[Ver Código](https://github.com/jloreto9/RepubliCaraquistApp)**
 
+#### 🇩🇴 [LIDOM 360 — Plataforma Sabermétrica & Analítica Integral LIDOM](https://github.com/jloreto9/lidom-analytics)
+> `Python` `Streamlit` `MLB Stats API` `Supabase` `Plotly` `SciPy` `Monte Carlo` `Sabermetría`
+* Plataforma analítica integral para la Liga Dominicana de Béisbol Profesional (LIDOM) cubriendo a las 6 franquicias de la pelota invernal.
+* **Modelos Predictivos & Monte Carlo:** Algoritmo de Power Rankings ELO dinámico y 5,000 simulaciones estocásticas para proyecciones de Round Robin y Serie Final.
+* **Matchup 360 (Versus) & Radar Polar:** Comparador cara a cara de peloteros con Radar Polar multidimensional (8 ejes sabermétricos), percentiles normalizados 0-100, headshots oficiales MLB y exportación de Tarjetas Matchup en PNG.
+* **Ingesta & Analítica Avanzada:** Tracking de jugadas de alto apalancamiento (*Leverage Index* / *WPA RE24*), analítica de bullpen e inherited runners (IR/IRS) y Spray Charts espaciales con calibración determinística de dureza BIS (*Hard/Med/Soft*).
+* 📁 **[Ver Código](https://github.com/jloreto9/lidom-analytics)**
+
 #### ⚾ [Vision 360 — Comparador Sabermétrico Head-to-Head MLB](https://vision360-tdzfctdme7zf3fhihe4wck.streamlit.app/)
 > `Python` `Streamlit` `Statcast / Baseball Savant` `Pybaseball` `Plotly` `Pillow`
 * Plataforma de analítica comparativa 360° cara a cara para todos los jugadores activos de Grandes Ligas (MLB).
