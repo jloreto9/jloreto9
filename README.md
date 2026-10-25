@@ -17,12 +17,12 @@
 
 ### 🚀 Perfil Profesional
 
-**Economista & AI Data Scientist** trilingüe (ES / EN / FR) con sólida trayectoria en **Control de Gestión, Business Intelligence, Inferencia Causal y Analítica Sabermétrica**. Especializado en diseñar e implementar pipelines de datos en producción, agentes de automatización e integraciones con APIs de LLMs (OpenAI, Anthropic) para transformar volúmenes masivos de datos en impacto cuantificable de negocio.
+**Economista, AI Data Scientist & Full-Stack Developer** trilingüe (ES / EN / FR) con sólida trayectoria en **Control de Gestión, Business Intelligence, Inferencia Causal, Arquitectura Web e Ingeniería Sabermétrica**. Especializado en diseñar e implementar pipelines de datos en producción, aplicaciones web reactivas de alto rendimiento (Next.js / React), agentes de automatización e integraciones con APIs de LLMs (OpenAI, Anthropic) para transformar volúmenes masivos de datos en impacto cuantificable de negocio.
 
 * 🏢 **Retail & BI Scale:** Modelado financiero y de demanda para la cadena de retail más grande de RD (+85 tiendas, formatos Sirena / Aprezio).
 * 🤖 **AI Engineering & Automatización:** Pipelines end-to-end con LLMs, agentes autónomos (n8n self-hosted) y arquitecturas de APIs.
 * 📊 **Econometría & Causal Inference:** Análisis de impacto con DiD (Difference-in-Differences), Synthetic Control, series temporales (Prophet, ARIMA) y validación estadística estricta.
-* ⚾ **Sports Analytics:** Arquitectura sabermétrica para analítica de béisbol profesional (LVBP / MLB API).
+* ⚾ **Sports Analytics & Full-Stack:** Plataformas sabermétricas de nivel profesional para béisbol invernal y MLB (LVBP, LIDOM, Statcast / MLB API) desplegadas en producción.
 
 ---
 
@@ -39,21 +39,22 @@
 
 | Dominio | Tecnologías & Herramientas |
 |---|---|
-| **Lenguajes & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Lenguajes & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 | **IA & Machine Learning** | ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-19C37D?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Prophet](https://img.shields.io/badge/Prophet-025E8C?style=flat-square) ![Statsmodels](https://img.shields.io/badge/Statsmodels-00599C?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
-| **BI, Web Apps & Visualización** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
-| **Cloud, Infra & Pipelines** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Web Apps, Frontend & BI** | ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
+| **Cloud, Infra & Pipelines** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
 ---
 
 ### 📂 Proyectos Destacados
 
-#### 🦁 [RepubliCaraquistApp — Plataforma Sabermétrica en Producción](https://republicaraquistapp.streamlit.app/)
-> `Python` `Streamlit` `Supabase` `MLB Stats API` `Plotly` `Sabermetría`
-* Aplicación web analítica en vivo para la LVBP (Leones del Caracas).
-* **Motor RE24 de Win Expectancy:** Algoritmo estocástico de 24 estados Base-Out con cálculo en tiempo real de **Leverage Index (LI)** y **Clutch**.
-* Visualizaciones avanzadas de **Spray Charts 2D**, cartografía de strike zone milimétrica ($plate\_x$, $plate\_z$) y análisis de bullpen.
-* 🔗 **[Ver App en Vivo](https://republicaraquistapp.streamlit.app/)** | 📁 **[Ver Código](https://github.com/jloreto9/RepubliCaraquistApp)**
+#### 🦁 [República Caraquista — Plataforma Sabermétrica & PWA en Producción](https://republicaraquistapp.vercel.app/)
+> `Next.js 16` `React 19` `TypeScript` `Tailwind CSS v4` `Supabase` `Web Push (VAPID)` `MLB Stats API` `PWA`
+* Plataforma web y PWA sabermétrica de alto rendimiento en producción para la LVBP y los Leones del Caracas.
+* **Game Center en Vivo & Win Expectancy:** Seguimiento play-by-play, boxscores oficiales con sustituciones jerárquicas y cálculo en tiempo real de probabilidades de victoria (*Win Expectancy* / *Tango RE24* de 24 estados) e índices de apalancamiento (*Leverage Index*).
+* **Sabermetría Visual & Spray Charts:** Dispersión espacial 2D calibrada por dureza de contacto, tarjetas de pitcheo inspiradas en Thomas Nestico (*TJStats*), splits y matrices de expectativa.
+* **PWA & Notificaciones Web Push:** Aplicación instalable con notificaciones push nativas al SO (VAPID), centro de alertas in-app, crónicas de *NotiCueva* por Gilberto Méndez y streaming continuo del circuito radial (*La Mega 107.3 FM*).
+* 🔗 **[Ver App en Vivo (Vercel)](https://republicaraquistapp.vercel.app/)** | 📁 **[Ver Código en GitHub](https://github.com/jloreto9/republicaraquista-web)**
 
 #### 🇩🇴 [LIDOM 360 — Plataforma Sabermétrica & Analítica Integral LIDOM](https://lidom-analytics.streamlit.app/)
 > `Python` `Streamlit` `MLB Stats API` `Supabase` `Plotly` `SciPy` `Monte Carlo` `Sabermetría`
